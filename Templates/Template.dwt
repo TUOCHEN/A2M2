@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+
+
+<link href="../Template.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body>
+<h1 id="header"><a href="../index.html"><img src="../images/logo.png.png" width="198" height="76"></a>
+</h1>
+  
+  
+  <span id="menu">
+  <button class="dropbtn"><a href="../index.html">Home</a></button>
+  <button class="dropbtn"><a href="../Products.html">Products</a></button>
+  <button class="dropbtn">Services</button>
+  <div class="dropdown">
+      <button class="dropbtn">Event</button>
+    <div class="dropdown-content">
+      <a href="#">Pet shop & Veterinary</a>
+    </div>
+  </div>
+ <div class="dropdown"> 
+   <button class="dropbtn">Contact Us</button> 
+   <div class="dropdown-content">
+     <a href="#">Feedback</a>
+     <a href="#">FAQ</a>
+    </div>
+	</div> 
+   <button class="dropbtn">References</button>
+</span>
+
+   
+<p id="line">Online Order Form</p>
+
+
+<!-- TemplateBeginEditable name="edit" -->
+<p> main part </p>
+
+
+<!-- TemplateEndEditable -->
+
+
+
+
+<p id="footer">Copyright Ripley Fish-Tastic Inc. © 2017. All Rights Reserved | Fish-Tastic Aquarium Supplies of Singapore | Privacy Policy | Terms of Use</p>
+</body>
+</html>
