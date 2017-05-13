@@ -21,14 +21,14 @@
   <div class="dropdown">
       <button class="dropbtn"><a href="../Event.html">Event</a></button>
     <div class="dropdown-content">
-      <a href="#"><a href="../Pet shop & Veterinary.html">Pet shop & Veterinary</a></a>
+      <a href="../Pet shop & Veterinary.html">Pet shop & Veterinary</a>
     </div>
   </div>
  <div class="dropdown"> 
    <button class="dropbtn"><a href="../Contact Us .html">Contact Us</a></button> 
    <div class="dropdown-content">
-     <a href="#"><a href="../Feedback.html">Feedback</a></a>
-     <a href="#"><a href="../FAQ.html">FAQ</a></a>
+	   <a href="../Feedback.html">Feedback</a>
+     <a href="../FAQ.html">FAQ</a>
     </div>
 	</div> 
    <button class="dropbtn"><a href="../References.html">References</a></button>
