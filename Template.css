@@ -108,5 +108,21 @@
 	width: auto;
 	padding: 25px;
 	margin: 25px auto auto auto;
+}
+
+
+.line{background-color:#0b578e;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	width: auto;
+	margin: 0px;
+	padding: 0px;
+	height: 35px;
+	}
+.img{
+	width: auto;
+	height: auto;
+}
 	
-} 
