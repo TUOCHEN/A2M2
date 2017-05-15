@@ -14,7 +14,7 @@
 </h1>
   
   
-  <span id="menu">
+  <div id="menu">
   <button class="dropbtn"><a href="../index.html">Home</a></button>
   <button class="dropbtn"><a href="../Products.html">Products</a></button>
   <button class="dropbtn"><a href="../Services.html">Services</a></button>
@@ -32,7 +32,7 @@
     </div>
 	</div> 
    <button class="dropbtn"><a href="../References.html">References</a></button>
-</span>
+</div>
 
    
 <p id="line"><a href="../Online Order Form.html">Online Order Form</a></p>
