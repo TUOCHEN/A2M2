@@ -15,8 +15,6 @@
 	width: auto;	
 }
 
-
-body{}
 #menu{
 	background-color:#0b578e;
 	background-position: center;
@@ -43,7 +41,14 @@ body{}
 	padding: 0px;
 	
 }
-
+#footer {
+	border:3px solid black;
+	font-size:16px;
+	margin: 25px auto;
+	padding:5px;
+	text-align:center;
+	width:500px;
+}
 
 .dropbtn {
     background-color: #0b578e;
@@ -87,15 +92,6 @@ body{}
 }
 
 
-#footer {
-	border:3px solid black;
-	font-size:16px;
-	margin: 25px auto;
-	padding:5px;
-	text-align:center;
-	width:500px;
-}
-
 .word{
 	text-align: center;
 	padding: 5px;
@@ -103,7 +99,12 @@ body{}
 	font-size: 25px;
 }
 
-
+.table{
+	text-align: center;
+	width: auto;
+	padding: 25px;
+	margin: 25px auto auto auto;
+}
 
 .line{background-color:#0b578e;
 	background-position: center center;
