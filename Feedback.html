@@ -39,16 +39,19 @@
 
 
 <!-- InstanceBeginEditable name="edit" -->
-<h1> Feedback </h1>
-<p> Rate my website </p>
-<p> please let us know your experien ce with our website </p>
+<h1 class="feedback"> Feedback </h1>
+<p class="faq"> Rate my website </p>
+<p class="faq"> Please let us know your experien ce with our website </p>
+
+
 <form>
+<div id="table">
 	
-	<table width="400" border="1">
+	<table width="400" border="2">
   <tbody>
     <tr>
       <td width="102">First Name</td>
-      <td width="282"><input name="First Name" type="text"  required id="First Name" size="35" maxlength="50"></td>
+      <td width="316"><input name="First Name" type="text"  required id="First Name" size="35" maxlength="50"></td>
     </tr>
     <tr>
       <td>Last Name</td>
@@ -56,7 +59,7 @@
 	  </tr>
     <tr>
       <td>Email</td>
-      <td><input name="Email" type="email" required id="Email"></td>
+      <td><input name="Email" type="email" required id="Email" size="35"></td>
     </tr>
     <tr>
       <td>please rate my site 1 is bad 5 is excellent</td>
@@ -88,15 +91,19 @@
         </tr>
       </table></td>
     </tr>
-  </tbody>
-  <tr>
+    <tr>
       <td>Any comments, questions or suggestions?</td>
-      <td><input type="text"></td>
+      <td><input type="text" size="35" maxlength="100"></td>
 	  </tr>
-	  
+  </tbody>
 </table>
-<input type="submit"> <input type="reset">
+</div>
+<div class="button">
+  <input type="submit" name="submit" id="submit" value="Submit">
+  <input type="reset" name="reset" id="reset" value="Reset">
+</div>
 	</form>
+	
 
 <!-- InstanceEndEditable -->
 
